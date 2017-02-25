@@ -1,0 +1,23 @@
+
+h1{
+	color: purple;
+	font-size: 90px;
+	font-family: 'Comic Sans', serif;
+}
+
+#hi {
+	color: green;
+}
+#hi2 {
+	color: blue;
+}
+#hello{
+	color: red;
+}
+img{
+	width: 60%;
+	margin-left: 20%;
+	border:  10px;
+	border-style: dotted;
+	border-color: pink;
+}
